@@ -17,7 +17,7 @@
          }
      }
      
-     Exemplo 1 -> http://samuelwebdev.com/portfolio/mostraClima.php?cityId=3451189 -> Rio de Janeiro
+     Exemplo 1 -> http://samuelwebdev.com/portfolio/mostraClima.php?cityId=3451190 -> Rio de Janeiro
      Exemplo 2 -> http://samuelwebdev.com/portfolio/mostraClima.php?cityId=3448433 -> São Paulo
      Exemplo 3 -> http://samuelwebdev.com/portfolio/mostraClima.php?cityId=3472343 -> Americana
      
