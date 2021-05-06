@@ -1,7 +1,7 @@
 # Software Simples para Mostrar o Clima dado o ID da Cidade a Partir de Uma lista JSON Desenvolvido em PHP
   #  [Demonstração Direta](http://samuelwebdev.com/portfolio/mostraClima.php?cityId=3451190)
 # Saída do Código 
-![picture alt](http://samuelwebdev.com/portfolio/images/demo_clima.png)  
+![picture alt](http://samuelwebdev.com/portfolio/images/demo_clima_sp.png)  
  Software desenvolvido para o Treinamento de utilização de API de Terceiros na linguagem de programação PHP, todas as saídas estão formatas para o português conforme a saída abaixo. 
   Caso queira verificar o Software com sua cidade basta verificar a lista de cidades no arquivo JSON, procurar o ID de sua cidade e digitar no final do link apos a variavel get "cityId" do link a seguir:
   http://samuelwebdev.com/portfolio/mostraClima.php?cityId=      <- DIGITE O ID DE SUA CIDADE OBTIDO NO ARQUIVO JSON DISPONIVEL NESTE LINK http://samuelwebdev.com/portfolio/lista_json/city.list.json, PESQUISE UTILIZANDO A TECLA 'F3' PELO NOME DE SUA CIDADE
